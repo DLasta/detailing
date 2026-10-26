@@ -1,0 +1,6 @@
+{
+  "name": "Elite Auto Detailing",
+  "description": "Professional auto detailing in Zagreb. Exterior and interior detailing, paint correction, ceramic coating and premium vehicle care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
